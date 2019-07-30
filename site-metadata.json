@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Kyus.io",
-    "logo_img": "/images/kyus-io-1.png",
+    "logo_img": "/images/kyus-io.png",
     "has_nav": true,
     "menu": {
       "actions": [
