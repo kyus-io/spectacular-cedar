@@ -15,8 +15,8 @@
     }
   },
   "footer": {
-    "logo_img": "images/logo_alt.png",
-    "tagline": "SaaS theme by Stackbit",
+    "logo_img": "/images/kyus-io-logo.png",
+    "tagline": "Kyus.io",
     "has_nav": true,
     "nav_title": "Company",
     "has_social": true,
@@ -24,7 +24,7 @@
     "has_subscribe": true,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Kyus.io. All rights reserved.",
     "links": [
       {
         "text": "Made with Stackbit",
