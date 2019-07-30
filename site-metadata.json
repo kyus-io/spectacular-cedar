@@ -26,11 +26,7 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "content": "&copy; Kyus.io. All rights reserved.",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ]
   }
 }
